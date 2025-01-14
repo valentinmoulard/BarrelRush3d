@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c238f4ae76e640e69263692635369387, type: 3}
+  m_Name: ClothesDataSo_Bag 1
+  m_EditorClassIdentifier: 
+  <UniqueID>k__BackingField: 1645719010
+  <Icon>k__BackingField: {fileID: -689832388, guid: e78ac63b0af35364ab1bc68ddfcd70bf, type: 3}
+  <Title>k__BackingField: Heavy Bag
+  <UpgradeCosts>k__BackingField:
+  - 25
+  - 50
+  - 75
+  - 100
+  - 125
+  - 150
+  - 175
+  - 200
+  - 225
+  - 250
+  <InventoryType>k__BackingField: 2
+  <UnlockData>k__BackingField:
+    <IsUnlockable>k__BackingField: 1
+    <UnlockCost>k__BackingField: 650
+  <ClothesData>k__BackingField:
+    values:
+    - <BonusAttackDamage>k__BackingField: 3
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0
+    - <BonusAttackDamage>k__BackingField: 3.1111112
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0
+    - <BonusAttackDamage>k__BackingField: 3.2222223
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0
+    - <BonusAttackDamage>k__BackingField: 3.3333333
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0
+    - <BonusAttackDamage>k__BackingField: 3.4444444
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0
+    - <BonusAttackDamage>k__BackingField: 3.5555556
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0
+    - <BonusAttackDamage>k__BackingField: 3.6666667
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0
+    - <BonusAttackDamage>k__BackingField: 3.7777777
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0
+    - <BonusAttackDamage>k__BackingField: 3.8888888
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0
+    - <BonusAttackDamage>k__BackingField: 4
+      <BonusAttackSpeed>k__BackingField: 0
+      <ProfitMultiplier>k__BackingField: 0

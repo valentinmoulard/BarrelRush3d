@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41764ccb6c1e4000a162fb2baec058ed, type: 3}
+  m_Name: WeaponDataSo NotToUse 1
+  m_EditorClassIdentifier: 
+  <UniqueID>k__BackingField: 2320138734
+  <Icon>k__BackingField: {fileID: 21300000, guid: f93c83f5e3878f240980458e4bf7d3f1, type: 3}
+  <Title>k__BackingField: Shotgun
+  <UpgradeCosts>k__BackingField:
+  - 8
+  - 16
+  - 24
+  - 32
+  - 40
+  - 48
+  - 56
+  - 64
+  - 72
+  - 80
+  <InventoryType>k__BackingField: 0
+  <UnlockData>k__BackingField:
+    <IsUnlockable>k__BackingField: 1
+    <UnlockCost>k__BackingField: 400
+  <EquipPrefabIndex>k__BackingField: 2
+  <FightData>k__BackingField:
+    values:
+    - <AttackDamage>k__BackingField: 5
+      <AttackSpeed>k__BackingField: 3
+    - <AttackDamage>k__BackingField: 5.5555553
+      <AttackSpeed>k__BackingField: 3.3333333
+    - <AttackDamage>k__BackingField: 6.111111
+      <AttackSpeed>k__BackingField: 3.6666667
+    - <AttackDamage>k__BackingField: 6.6666665
+      <AttackSpeed>k__BackingField: 4
+    - <AttackDamage>k__BackingField: 7.2222223
+      <AttackSpeed>k__BackingField: 4.3333335
+    - <AttackDamage>k__BackingField: 7.7777777
+      <AttackSpeed>k__BackingField: 4.666667
+    - <AttackDamage>k__BackingField: 8.333333
+      <AttackSpeed>k__BackingField: 5
+    - <AttackDamage>k__BackingField: 8.888889
+      <AttackSpeed>k__BackingField: 5.3333335
+    - <AttackDamage>k__BackingField: 9.444445
+      <AttackSpeed>k__BackingField: 5.6666665
+    - <AttackDamage>k__BackingField: 10
+      <AttackSpeed>k__BackingField: 6
+  <BulletType>k__BackingField: 0

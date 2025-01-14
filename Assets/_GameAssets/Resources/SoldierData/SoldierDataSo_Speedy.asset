@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d487b917cc244e9a9ca2ef0d1b8d55a, type: 3}
+  m_Name: SoldierDataSo_Speedy
+  m_EditorClassIdentifier: 
+  <UniqueID>k__BackingField: 2670179698
+  <Icon>k__BackingField: {fileID: 1724437627, guid: e800c3f1d1b97ce41b03ee59b2d88258, type: 3}
+  <Title>k__BackingField: Speedy
+  <UpgradeCosts>k__BackingField:
+  - 50
+  - 100
+  - 150
+  - 200
+  - 250
+  - 300
+  - 350
+  - 400
+  - 450
+  - 500
+  <FightData>k__BackingField:
+    values:
+    - <AttackDamage>k__BackingField: 1
+      <AttackSpeed>k__BackingField: 4
+    - <AttackDamage>k__BackingField: 1.1111112
+      <AttackSpeed>k__BackingField: 4.6666665
+    - <AttackDamage>k__BackingField: 1.2222222
+      <AttackSpeed>k__BackingField: 5.3333335
+    - <AttackDamage>k__BackingField: 1.3333334
+      <AttackSpeed>k__BackingField: 6
+    - <AttackDamage>k__BackingField: 1.4444444
+      <AttackSpeed>k__BackingField: 6.6666665
+    - <AttackDamage>k__BackingField: 1.5555556
+      <AttackSpeed>k__BackingField: 7.3333335
+    - <AttackDamage>k__BackingField: 1.6666667
+      <AttackSpeed>k__BackingField: 8
+    - <AttackDamage>k__BackingField: 1.7777778
+      <AttackSpeed>k__BackingField: 8.666667
+    - <AttackDamage>k__BackingField: 1.8888888
+      <AttackSpeed>k__BackingField: 9.333333
+    - <AttackDamage>k__BackingField: 2
+      <AttackSpeed>k__BackingField: 10
+  <UnlockData>k__BackingField:
+    <IsUnlockable>k__BackingField: 0
+    <UnlockCost>k__BackingField: 0

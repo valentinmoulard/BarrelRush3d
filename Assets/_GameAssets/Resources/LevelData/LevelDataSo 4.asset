@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ab24df63a54094b4076015ce94c5ae, type: 3}
+  m_Name: LevelDataSo 4
+  m_EditorClassIdentifier: 
+  <LevelPrefab>k__BackingField: {fileID: 4878424043688206131, guid: 888107135bca2064f98595e6efc4bc9e, type: 3}
+  <BarrelLevelData>k__BackingField:
+  - <ObjectAndCountPairBoss>k__BackingField:
+      <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 7789d9acf7461bb42b2f33942919feb1, type: 2}
+      healthPoints: {x: 210, y: 220}
+    <BarrelSpawnDataSo>k__BackingField: {fileID: 11400000, guid: ca1bd80f5ebe34627999aa3a64009b76, type: 2}
+  - <ObjectAndCountPairBoss>k__BackingField:
+      <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 4a66b3cd3ec4d0d4e9fa56c3bd7deb58, type: 2}
+      healthPoints: {x: 230, y: 240}
+    <BarrelSpawnDataSo>k__BackingField: {fileID: 11400000, guid: 4ca4882ec9d284cb4ac77bf6e6c8c38a, type: 2}
+  - <ObjectAndCountPairBoss>k__BackingField:
+      <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: a8333db3a0f83374d837927b2f288cd6, type: 2}
+      healthPoints: {x: 240, y: 250}
+    <BarrelSpawnDataSo>k__BackingField: {fileID: 11400000, guid: 9182aa707718146c9a0bf75e591a5d74, type: 2}

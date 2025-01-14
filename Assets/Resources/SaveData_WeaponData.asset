@@ -1,0 +1,404 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244eb79a6bf7540fb90f50861bb558d0, type: 3}
+  m_Name: SaveData_WeaponData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: <Dictionary>k__BackingField
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.UInt32, mscorlib],[EquipmentState,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.UInt32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 15
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1916854207
+    - Name: $v
+      Entry: 7
+      Data: 2|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: true
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3482938148
+    - Name: $v
+      Entry: 7
+      Data: 3|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2723423261
+    - Name: $v
+      Entry: 7
+      Data: 4|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1157339320
+    - Name: $v
+      Entry: 7
+      Data: 5|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1560623847
+    - Name: $v
+      Entry: 7
+      Data: 6|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3886222675
+    - Name: $v
+      Entry: 7
+      Data: 7|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 754054793
+    - Name: $v
+      Entry: 7
+      Data: 8|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4289507202
+    - Name: $v
+      Entry: 7
+      Data: 9|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3393533870
+    - Name: $v
+      Entry: 7
+      Data: 10|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3393533867
+    - Name: $v
+      Entry: 7
+      Data: 11|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3393533868
+    - Name: $v
+      Entry: 7
+      Data: 12|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2320138734
+    - Name: $v
+      Entry: 7
+      Data: 13|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3126707788
+    - Name: $v
+      Entry: 7
+      Data: 14|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3393533871
+    - Name: $v
+      Entry: 7
+      Data: 15|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3393533869
+    - Name: $v
+      Entry: 7
+      Data: 16|EquipmentState, Assembly-CSharp
+    - Name: <Level>k__BackingField
+      Entry: 3
+      Data: 0
+    - Name: <IsUnlocked>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: <IsEquipped>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  <SaveDataType>k__BackingField: 1

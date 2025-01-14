@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba067df7997d4e43b360196156b169ea, type: 3}
+  m_Name: BarrelSpawnerDataSo 5
+  m_EditorClassIdentifier: 
+  <DefaultBarrelSquat>k__BackingField:
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 57a8edf874011544dbe546109cd243f8, type: 2}
+    healthPoints: {x: 90, y: 110}
+    <HowManyObject>k__BackingField: 1
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 97daec4600631524e908ef985ea195bd, type: 2}
+    healthPoints: {x: 90, y: 110}
+    <HowManyObject>k__BackingField: 1
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 4a576a58ab271c64f9bc58cd666eb191, type: 2}
+    healthPoints: {x: 90, y: 110}
+    <HowManyObject>k__BackingField: 4
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 57a8edf874011544dbe546109cd243f8, type: 2}
+    healthPoints: {x: 90, y: 110}
+    <HowManyObject>k__BackingField: 1
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 4a576a58ab271c64f9bc58cd666eb191, type: 2}
+    healthPoints: {x: 100, y: 120}
+    <HowManyObject>k__BackingField: 3
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 6c86037c8426b82419f587d7bac72aad, type: 2}
+    healthPoints: {x: 100, y: 120}
+    <HowManyObject>k__BackingField: 1
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 4a576a58ab271c64f9bc58cd666eb191, type: 2}
+    healthPoints: {x: 100, y: 120}
+    <HowManyObject>k__BackingField: 8
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 97daec4600631524e908ef985ea195bd, type: 2}
+    healthPoints: {x: 100, y: 120}
+    <HowManyObject>k__BackingField: 1
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 4a576a58ab271c64f9bc58cd666eb191, type: 2}
+    healthPoints: {x: 110, y: 130}
+    <HowManyObject>k__BackingField: 2
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 97daec4600631524e908ef985ea195bd, type: 2}
+    healthPoints: {x: 110, y: 130}
+    <HowManyObject>k__BackingField: 1
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 57a8edf874011544dbe546109cd243f8, type: 2}
+    healthPoints: {x: 110, y: 130}
+    <HowManyObject>k__BackingField: 1
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 6c86037c8426b82419f587d7bac72aad, type: 2}
+    healthPoints: {x: 110, y: 130}
+    <HowManyObject>k__BackingField: 1
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 4a576a58ab271c64f9bc58cd666eb191, type: 2}
+    healthPoints: {x: 120, y: 140}
+    <HowManyObject>k__BackingField: 7
+  - <BarrelDataSo>k__BackingField: {fileID: 11400000, guid: 97daec4600631524e908ef985ea195bd, type: 2}
+    healthPoints: {x: 120, y: 140}
+    <HowManyObject>k__BackingField: 4

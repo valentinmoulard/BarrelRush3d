@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &148992207396179057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6756487363104513989}
+  - component: {fileID: 1246412676233430147}
+  - component: {fileID: -8528718402540136325}
+  - component: {fileID: 6809435329680204680}
+  - component: {fileID: 2078466728666477371}
+  - component: {fileID: -4172765361047756574}
+  - component: {fileID: 9199374553790889167}
+  m_Layer: 14
+  m_Name: Soldier_Base
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6756487363104513989
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148992207396179057}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1246412676233430147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148992207396179057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3dcfbcaa954d49ac3ddda5fd52c61d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  modules:
+    keyData: 020000000500000003000000
+    valueData:
+    - {fileID: -8528718402540136325}
+    - {fileID: 6809435329680204680}
+    - {fileID: 2078466728666477371}
+--- !u!114 &-8528718402540136325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148992207396179057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90ee55e434524cc9baa2605b81edbd2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <IsActivate>k__BackingField: 1
+  <HasUpdate>k__BackingField: 0
+  <HasFixedUpdate>k__BackingField: 0
+--- !u!114 &6809435329680204680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148992207396179057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 774eb7d60bc84d1c82b59bd661f08f38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <IsActivate>k__BackingField: 1
+  <HasUpdate>k__BackingField: 0
+  <HasFixedUpdate>k__BackingField: 0
+  weaponHolder: {fileID: 0}
+  weaponBase: {fileID: 0}
+--- !u!114 &2078466728666477371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148992207396179057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7961efca66dc45a2bc847a5f18a7831f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <IsActivate>k__BackingField: 1
+  <HasUpdate>k__BackingField: 0
+  <HasFixedUpdate>k__BackingField: 0
+--- !u!114 &-4172765361047756574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148992207396179057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73abb301c20f467ab63a51f0616c4ff6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Soldier>k__BackingField: {fileID: 1246412676233430147}
+--- !u!136 &9199374553790889167
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 148992207396179057}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.1125
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.5, z: 0}

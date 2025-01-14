@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eacb1712d2b42a29c40461904475ac4, type: 3}
+  m_Name: Settings_General
+  m_EditorClassIdentifier: 
+  <GameSpeed>k__BackingField: 1
+  <DebugActivity>k__BackingField: 0
+  <CoinManagerSettings>k__BackingField:
+    <MoveToRandomUnitCircleDuration>k__BackingField: 0.2
+    <MoveToRandomUnitCircleDistance>k__BackingField: 250
+    <MoveToTargetDuration>k__BackingField: 0.3
+    <JumpPower>k__BackingField: 20
+    <LastScaleAfterMovingToTarget>k__BackingField: 0.5
+    <DefaultCoinCount>k__BackingField: 0
+  <SettingsCamera>k__BackingField:
+    <CameraMoveDuration>k__BackingField: 0.5
+    <DragThreshold>k__BackingField: 0.1
+    <MovementSpeed>k__BackingField: 1
+    <Friction>k__BackingField: 0.9
+    <CameraLimits>k__BackingField: {x: 25, y: 25}
+  <GameSettings>k__BackingField:
+    <SettingsRoad>k__BackingField:
+      <RoadLimit>k__BackingField: 4
+      <RoadSpeed>k__BackingField: 3
+      <BarrelXPositions>k__BackingField:
+      - -3.75
+      - -1.25
+      - 1.25
+      - 3.75
+      <BossBarrelDistanceToLastBarrel>k__BackingField: 10
+      <GapBetweenSections>k__BackingField: 20
+      <RoadSpeedIncreasePerBoss>k__BackingField: 0.25
+    <SettingsBarrel>k__BackingField:
+      <ExplodeMaterial>k__BackingField: {fileID: 2100000, guid: 688eaf1c9176a8a4d96f6ec5b2424824, type: 2}
+      <ExplodeSkullPrefab>k__BackingField: {fileID: 915202216416922483, guid: 8a49eaab5948e414da3ac38d5c340879, type: 3}
+      <BarrelZGap>k__BackingField: 3
+      <BarrelExplodeRadius>k__BackingField: 3
+      <BarrelRotateSpeed>k__BackingField: 180
+      <AddOnObject>k__BackingField: {fileID: 3529026403552503982, guid: faf24a8d71f34b140a8061f3dec645b8, type: 3}
+    <SettingsBullet>k__BackingField:
+      <Distance>k__BackingField: 10
+      <Duration>k__BackingField: 1
+      <BarrelLayer>k__BackingField:
+        serializedVersion: 2
+        m_Bits: 1024
+    <SettingsHeroMovement>k__BackingField:
+      <MaxHorizontalVelocityAmplitude>k__BackingField: 75
+      <HorizontalSmoothTime>k__BackingField: 0.045
+      <TouchSensitivity>k__BackingField: 0.1
+    <SettingsIconHolder>k__BackingField:
+      <UpgradeArrow>k__BackingField: '<sprite="ArrowUp" name="ArrowUp"> '
+      <FireDamage>k__BackingField: '<sprite="ShootDamage" name="ShootDamage"> '
+      <FireSpeed>k__BackingField: '<sprite="ShootSpeed" name="ShootSpeed"> '
+      <IncomeMultiplier>k__BackingField: '<sprite="IncomeMultiplier" name="IncomeMultiplier"> '
+    <SettingsSoldier>k__BackingField:
+      <SoldierJoinAnimationDuration>k__BackingField: 0.75
+      <SoldierJoinJumpPower>k__BackingField: 3
+    <SettingsRevive>k__BackingField:
+      <ReviveTime>k__BackingField: 10
+    <UnitLayerMask>k__BackingField:
+      serializedVersion: 2
+      m_Bits: 49152
+    <BarrelLayerMask>k__BackingField:
+      serializedVersion: 2
+      m_Bits: 1024
